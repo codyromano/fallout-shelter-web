@@ -10,6 +10,8 @@
   "author": "Cody Romano",
   "license": "MIT",
   "dependencies": {
+    "node-random-name": "^1.0.1",
+    "random-number": "0.0.7",
     "react": "^0.14.5",
     "react-dom": "^0.14.5"
   },
